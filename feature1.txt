@@ -1,1 +1,2 @@
 This is a new feature.
+Added more utility to this feature
