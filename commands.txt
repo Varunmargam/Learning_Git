@@ -1,5 +1,10 @@
 git init
 git status
 git log
+git log --oneline
+git log --oneline --pretty
 git add
 git commit -m ""
+git revert
+git restore
+git rm --cached
